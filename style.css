@@ -1,0 +1,47 @@
+
+fieldset{
+    border: none;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 101px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: inline-block;
+    background-color: rgb(7, 88, 250);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+.placeholder{
+    text-align: center;
+    border-radius: 15px;
+}
+.placeholder input{
+    width: 180px;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 50px 8px 50px;
+}
+
+.placeholder i {
+    background-color: white;
+    border-radius: 50px;
+    padding: 10px;
+}
+.btn {
+    text-align: center;
+}
+.btn button{
+    border-radius: 15px;
+    border: none;
+    padding: 8px 50px 8px 50px;
+}
